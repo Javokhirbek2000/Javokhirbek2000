@@ -1,6 +1,7 @@
 # **Javokhirbek Mirzaakbarov**
 **Software Enginner | Web Developer | Computer Science student at IUT**
-*React JS, Node JS, JavaScript, MongoDD, Express JS, Bootstrap, ReactStrap, CSS4, HTML5, Tailwind CSS, SASS, MySQL, Git/GitHUb
+
+*React JS, Node JS, JavaScript, MongoDD, Express JS, Bootstrap, ReactStrap, CSS4, HTML5, Tailwind CSS, SASS, MySQL, Git/GitHUb*
 
 - My main area of interest if Front-end web development
 - Passionate about web development
