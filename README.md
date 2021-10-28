@@ -6,7 +6,7 @@
 - My main area of interest if Front-end web development
 - Passionate about web development
 - Ready to discuss questions
-- Contact me on [Linkedin](https://www.linkedin.com/in/javokhirbek-mirzaakbarov/)[Telegram](https://t.me/Code_Breaker_2000)
+- Contact me on [Linkedin](https://www.linkedin.com/in/javokhirbek-mirzaakbarov/), [Telegram](https://t.me/Code_Breaker_2000)
 
 
 
