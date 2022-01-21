@@ -1,9 +1,9 @@
 # **Javokhirbek Mirzaakbarov**
 **Software Engineer | Web Developer | Computer Science student at IUT**
 
-*React JS, Node JS, JavaScript, MongoDD, Express JS, Bootstrap, ReactStrap, CSS4, HTML5, Tailwind CSS, SASS, MySQL, Git/GitHUb*
+*ReactJS, Redux, NodeJS, JavaScript, TypeScript, Agile, JIRA, MongoDD, Express JS, Bootstrap, ReactStrap, CSS4, HTML5, Tailwind CSS, SASS, MySQL, Git/GitHUb*
 
-- My main area of interest if Front-end web development
+- My main area of interest is Front-end web development
 - Passionate about web development
 - Ready to discuss questions
 - Contact me on [Linkedin](https://www.linkedin.com/in/javokhirbek-mirzaakbarov/), [Telegram](https://t.me/Code_Breaker_2000)
